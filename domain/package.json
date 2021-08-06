@@ -1,0 +1,23 @@
+{
+  "name": "centralcare-domain",
+  "version": "0.0.1",
+  "description": "Domain",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devbw/CentralCare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devbw/CentralCare/issues"
+  },
+  "homepage": "https://github.com/devbw/CentralCare#readme",
+  "dependencies": {
+    "chai": "^4.3.4"
+  }
+}
